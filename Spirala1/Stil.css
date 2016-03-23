@@ -254,8 +254,9 @@ form {
     margin: 0 auto;
     margin-top:2%;
     width:30%;
-    border: 1px solid black;
+    
 	background-color: rgb(200,200,50);
+	border: 1px solid black;
 
 }
 
