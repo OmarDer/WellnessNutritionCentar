@@ -75,7 +75,7 @@ session_start();
 		$datum=getdate();
 		$naslov=str_replace(",","&#44;",$naslov);
 		$tekst=str_replace(",","&#44;",$tekst);
-		$datum=date ('D M j Y H:i:s',strtotime('+2 hours'))." GMT+0200";
+		$datum=date ('D M j Y H:i:s')." GMT+0200";
 		file_put_contents("vijesti.csv",$naslov.','.$tekst.','.$slika.','.$datum."%%%", FILE_APPEND);
 	}
 	if(isset($_SESSION['username']))
