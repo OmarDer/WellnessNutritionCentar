@@ -45,7 +45,7 @@ session_start();
 ?>
 <div id="meni">
 	<ul class="menilista">
-		<li id="Pocetna"><a class="linkmeni" href="Main.php" >Početna</a></li>
+		<li id="Pocetna"><a class="linkmeni" href="index.php" >Početna</a></li>
 		<li id="Zdrava"><a href="Linkovi.html" class="linkmeni">Zdrava ishrana</a></li>
 		<li id="Sport"><a href="Tabela.html" class="linkmeni">Sport i rekreacija</a></li>
 		<li id="Kontakt"><a href="Forma.html" class="linkmeni">Kontakt</a></li>
