@@ -1,0 +1,96 @@
+form {
+	height: 70%;
+    margin: 0 auto;
+    margin-top:2%;
+    width:30%;
+    
+	background-color: green;
+	border: 2px solid black;
+	border-radius: 30px;
+	text-align: center;
+	position: relative;
+	box-shadow:0px 0px 10px 8px green;
+
+}
+#pocetni {
+	text-align: center;
+	color:rgb(150,250,30);
+}
+
+#naslovforme {
+text-align: center;
+}
+#Username,#pass{
+
+	display: block;
+	text-align: center;
+	font-size: 20px;
+}
+
+#usernameTxt,#passwordTxt{
+	align-self: center;
+	margin-bottom: 10px;
+}
+#pritisni{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	height: 40px;
+	width: 20%;
+	font-size: 15px;
+	background-color: lightblue;
+}
+#Pocetna{
+	background-color: rgb(120,180,255);
+}
+#Zdrava{
+	background-color: rgb(120,180,255);
+}
+#Sport{
+	background-color: rgb(120,180,255);
+}
+#Kontakt{
+	background-color: rgb(120,180,255);
+}
+#meni>ul>li{
+	display: inline;
+	/*outline: solid white 2px;*/
+	position: relative;
+	font-size: 20pt;
+	padding-top: 0.2%;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+	padding-bottom: 0.4%;
+	position: relative;
+	border-radius: 30px;
+	border: solid white 2px;
+
+}
+
+#meni{
+	/*outline: solid white 2px;*/
+	width: auto;
+	height: auto;
+	overflow: hidden;
+    /*border-color: white;*/
+	bottom: 2%;
+	padding-bottom: 4px;
+	padding-top: 0.5%;
+	font-family: Gabriela;
+	background-color: green;
+	max-width: 99%;
+	max-height:8%;
+	min-height: 6.5%;
+	min-width: 97%;
+	/*margin-bottom: 3px;*/
+	
+}
+
+a.linkmeni:link {
+	text-decoration: none;
+
+}
+.poruka{
+	color:red;
+	text-align: center;
+	font-size: 30px;
+}

@@ -1,0 +1,11 @@
+<div class="novostiDiv">
+  
+	<h1 class="NaslovNovosti">Važnost doruèka za zdravlje</h1>
+	<p class="datumobjave">Sun Apr 3 2016 20:02:59 GMT+0200</p>
+	<p class="datumi"></p>
+	<p class="novosti"> <img class="novostiSlike" alt="LOGO" src=http://redcookbook.net/wp-content/uploads/images/Breakfast_Shake.jpg>  Doruèak je kralj obroka. Najvažniji je od svih obroka u danu i ne smijemo ga preskakati što zapravo mnogo ljudi èini. Oni koji ga ne preskaèu ga možda ne konzumiraju na najzdraviji naèin, tj. doruèkom ne unose dovoljno proteina. Doruèak koji obiluje proteinima osigurava dovoljnu kolièinu energije koja nam je potrebna i smanjuje osjeæaj gladi tijekom dana, što dovodi do kasnijeg gubitka kilograma.
+	Današnjim užurbanim naèinom života možda neki ni ne stignu pravilno doruèkovati, nego konzumiraju nezdravu hranu koja æe kasnije donijeti više štete nego koristi. Istraživanja su dokazala da doruèak ima mnogo pozitivnih utjecaja na tijelo i ponašanje ljudi, a pomaže i kod uèenja, spoznaje, toènosti i psihosocijalnih funkcija. Kod mladih ljudi pomaže kod održavanje tjelesne težine.
+
+	Možda ste jedan od onih koji misle da æe preskakanjem doruèka izgubiti na težini, no to nije istina jer æete na taj naèin poveæati unos grickalica da bi prikrili glad, a postoji moguænost da æete pojesti veæe obroke za ruèak ili veèeru zbog toga što niste doruèkovali. Zbog toga bi se mogli još i udebljati jer ako pojedet
+	</p>
+	</div>
