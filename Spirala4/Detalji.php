@@ -47,7 +47,7 @@ function bodyOnLoad() {
 
 <?php
 	session_start();
-	 $veza = new PDO("mysql:dbname=wnclub_database;host=localhost;port=3306;charset=utf8","DBuser");
+	 $veza = new PDO("mysql:dbname=wnclub_database;host=127.13.15.130;port=3306;charset=utf8","DBuser");
      $veza->exec("set names utf8");
 
 	if(isset($_REQUEST['Potvrdi']))
