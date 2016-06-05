@@ -6,7 +6,7 @@ function zag() {
 }
 function rest_get($request, $data) {
 
-$veza = new PDO("mysql:dbname=wnclub_database;host=127.13.15.130;port=3306;charset=utf8","DBuser");
+$veza = new PDO("mysql:dbname=wnclub_database;host=127.4.179.2;port=3306;charset=utf8","DBuser");
 $veza->exec("set names utf8");
 $autor=$_GET['autor'];
 $upit = $veza->prepare("SELECT n.Naslov, k.* FROM komentar k join novosti n on k.IDNovost=n.NovostID join autori a on a.ID=n.AutorID WHERE a.Username=? and k.Pogledan=0 order by k.IDNovost Asc");
